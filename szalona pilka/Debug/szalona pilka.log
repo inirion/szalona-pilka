@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\szalona pilka\szalona pilka\source.cpp(184): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\szalona pilka\szalona pilka\source.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\szalona pilka\szalona pilka\source.cpp(223): warning C4018: '<': signed/unsigned mismatch
+c:\users\grzegorz kokoszka\documents\visual studio 2015\projects\szalona pilka\szalona pilka\source.cpp(154): warning C4715: 'klikniecie': not all control paths return a value
+  szalona pilka.vcxproj -> c:\users\grzegorz kokoszka\documents\visual studio 2015\Projects\szalona pilka\Debug\szalona pilka.exe
